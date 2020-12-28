@@ -9,7 +9,7 @@ echo -e " | (_)_ _ | |_| __(_)_ _  __| |___ _ _ "
 echo -e " | | | ' \| / / _|| | ' \/ _• / -_) •_|"
 echo -e " |_|_|_||_|_\_\_| |_|_||_\__,_\___|_|  "
 echo -e
-echo -e " simple link stractor"
+echo -e " simple link extractor"
 echo -e
 echo -e "                               _Y000!_"
 echo -e "======================================"
