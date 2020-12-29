@@ -115,7 +115,7 @@ if [ "$linkfinder" == "1" ] || [ "$linkfinder" == "01" ]
         menu
 
         elif
-        [ "$linkfinder" == "4" ] || [ "$linkfinder" == "04"]
+        [ "$linkfinder" == "4" ] || [ "$linkfinder" == "04" ]
         then
         banner
         read -rsp $'Presiona alguna tecla para continuar...' -n 1 key
